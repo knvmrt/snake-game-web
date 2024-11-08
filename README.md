@@ -10,7 +10,7 @@
 <hr></hr>
 
 # 🗂️Project information:
-### Project Name: Snake Game 2
+### Project Name: Snake Game
 ### Project Description: Snake Game Web 
 
 ## 💻Project tech:
